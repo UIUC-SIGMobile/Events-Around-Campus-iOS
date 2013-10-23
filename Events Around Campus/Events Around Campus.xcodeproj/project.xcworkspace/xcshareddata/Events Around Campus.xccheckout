@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B87A5E28-A102-41F1-8BC1-E21150257CEB</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Events Around Campus</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>AA90A173-32AF-4259-8B5E-30A91AF5EC99</key>
+		<string>https://github.com/UIUC-SIGMobile/Events-Around-Campus-iOS</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Events Around Campus/Events Around Campus.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>AA90A173-32AF-4259-8B5E-30A91AF5EC99</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/UIUC-SIGMobile/Events-Around-Campus-iOS</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>AA90A173-32AF-4259-8B5E-30A91AF5EC99</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>AA90A173-32AF-4259-8B5E-30A91AF5EC99</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Events-Around-Campus-iOS</string>
+		</dict>
+	</array>
+</dict>
+</plist>
